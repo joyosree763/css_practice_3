@@ -1,1 +1,6 @@
-# css_practice_3
+## css_practice_3
+
+##TODO:
+
+ -Margin
+ -Padding
