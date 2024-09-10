@@ -1,0 +1,29 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.box {
+  border: 5px solid black;
+  width: 500px;
+  height: 500px;
+  font-size: 32px;
+
+  /* padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 20px;
+  padding-left: 100px; */
+
+  /* No one is same */
+  /* padding: 50px 80px 20px 100px; */
+
+  /* Top Left=Right Bottom */
+  /* padding: 50px 100px 20px; */
+
+  /* Top=Bottom Left=Right */
+  /* padding: 50px 100px; */
+
+  /* All are same */
+  padding: 100px;
+}

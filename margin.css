@@ -1,0 +1,23 @@
+.box {
+  border: 5px solid black;
+  width: 200px;
+  height: 200px;
+
+  /* margin-top: 50px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  margin-right: 20px; */
+
+  /* margin: 50px 20px 100px 200px; */
+
+  /* Top Left=Right Bottom */
+  /* margin: 50px 100px 80px; */
+
+  /* Top=Bottom & Left=Right  */
+  /* margin: 50px 100px; */
+
+  /* All side is same */
+  /* margin: 50px; */
+
+  margin: 0 auto;
+}
